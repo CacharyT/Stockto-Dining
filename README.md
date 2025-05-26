@@ -1,6 +1,6 @@
 # Stockto-Dining
 
-![Website Image](Images/DatabaseDsign.png)
+![DatabaseDesign](Images/DatabaseDesign.png)
 
 ## Description
 
